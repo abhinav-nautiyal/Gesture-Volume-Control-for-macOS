@@ -5,6 +5,8 @@ import handTrackingModule as htm
 import math
 import subprocess
 
+this line 8 is the chnage
+
 ################################
 wCam, hCam = 640, 480
 ################################
